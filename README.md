@@ -1,1 +1,1 @@
-It is a readme file for today-repo
+Its a readme file for todays repo
